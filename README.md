@@ -1,15 +1,16 @@
-# Agile Software Development & DevOps_Lab_Experiments
-# Repository containing ASDD Experiments 
+# Agile Software Development & DevOps Lab Experiments
 
+Repository containing lab documentation for Agile Software Development & DevOps (ASDD).
 
-# Experiment No        Aim
-#Experiment 1          Version Control Operations using Git
-#Experiment 2          To Containerize Applications using Docker
-#Experiment 3          To deploy multi-service applications using Docker Compose
-#Experiment 4          To set up a Continuous Integration Pipeline using Jenkins/GitHub Act
-#Experiment 5          To automate application deployment using GitHub/Jenkins
-#Experiment 6          To study and implement Agile Software Project lifecycle using Jira with DevOps Pipeline Integration
-#Experiment 7          To implement monitoring using Promentheus/Grafana/Nagios
-#Experiment 8          To implement CI/CD pipeline to host a website on AWS
-#Experiment 9          To provision cloud infrastructure using Terraform
-#Experiment 10         Mini Project
+| Exp No. | Aim |
+| :---: | :--- |
+| **01** | Version Control Operations using Git |
+| **02** | To Containerize Applications using Docker |
+| **03** | To deploy multi-service applications using Docker Compose |
+| **04** | To set up a Continuous Integration Pipeline using Jenkins / GitHub Actions |
+| **05** | To automate application deployment using GitHub / Jenkins |
+| **06** | To study and implement Agile Software Project lifecycle using Jira with DevOps Pipeline Integration |
+| **07** | To implement monitoring using Prometheus / Grafana / Nagios |
+| **08** | To implement CI/CD pipeline to host a website on AWS |
+| **09** | To provision cloud infrastructure using Terraform |
+| **10** | Mini Project |
